@@ -3,3 +3,5 @@ Building some algorithms to detect and identity Covid-19 respiratory infections 
 
 
 Branch 0 feature
+
+New branch to add file reading
